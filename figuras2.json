@@ -1,0 +1,44 @@
+[
+  {
+    "marca": "Bandai",
+    "nombre": "Spider-Man",
+    "precio": 7200,
+    "stock": 9
+  },
+  {
+    "marca": "Bandai",
+    "nombre": "Hellboy",
+    "precio": 5100,
+    "stock": 17
+  },
+  {
+    "marca": "Bandai",
+    "nombre": "Tony Stark",
+    "precio": 4300,
+    "stock": 23
+  },
+  {
+    "marca": "Bandai",
+    "nombre": "Black Panther",
+    "precio": 2900,
+    "stock": 12
+  },
+  {
+    "marca": "Bandai",
+    "nombre": "Batman",
+    "precio": 4000,
+    "stock": 28
+  },
+  {
+    "marca": "Bandai",
+    "nombre": "Captain America",
+    "precio": 6100,
+    "stock": 7
+  },
+  {
+    "marca": "Bandai",
+    "nombre": "Superman",
+    "precio": 3800,
+    "stock": 20
+  }
+]
